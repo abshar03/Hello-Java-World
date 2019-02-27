@@ -3,5 +3,7 @@ class A {
   // Print the Hello World
   
      System.out.println("Hello World");
+     System.out.println("Hello Java World");
+  
  }
 }
